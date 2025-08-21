@@ -2,7 +2,7 @@
 
 감정 분석 및 멘탈 헬스 케어를 위한 AI 챗봇 프로젝트입니다.
 
-## 🚀 빠른 시작 (Quick Start)
+## 🚀 빠른 시작 (Quick Start) !! 경로 설정 유의 !!
 
 0. 저장소 클론
 	```bash
@@ -10,7 +10,7 @@
 	cd SimTok_SentimmentCareChatBot/project
 	```
 
-1) 의존성 설치
+1) 의존성 설치 (경로 설정 유의;ai Folder)
 ```bash
 pip install -r requirements.txt
 ```
